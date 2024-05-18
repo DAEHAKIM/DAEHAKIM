@@ -17,7 +17,7 @@ Besides my academic pursuits, I work as an orthopedic surgeon at SNU Seoul Hospi
 
 ## Connect with Me
 
-- [Facebook](https://www.facebook.com/kim.902)
+- [e-mail](windrod@gmail.com)
 
 Feel free to reach out if you want to collaborate on exciting projects or just have a chat about tech and medicine!
 
