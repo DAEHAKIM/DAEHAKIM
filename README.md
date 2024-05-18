@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**DAEHAKIM/DAEHAKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm currently a junior majoring in Computer Science at Korea National Open University.  
+Besides my academic pursuits, I work as an orthopedic surgeon at SNU Seoul Hospital in Gangseo-gu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests and Goals
+
+- 🌱 I’m currently learning the fundamentals of computer science, focusing on Python and C.
+- 🤖 I have a strong interest in AI and natural language processing (NLP) and aim to develop applications that assist in medical diagnosis, although I haven't started studying these fields yet.
+- 💻 I’m passionate about software development and continuously exploring new technologies.
+
+## Skills
+
+- **Languages:** Python, C
+
+## Connect with Me
+
+- [Facebook](https://www.facebook.com/kim.902)
+
+Feel free to reach out if you want to collaborate on exciting projects or just have a chat about tech and medicine!
+
+---
+
